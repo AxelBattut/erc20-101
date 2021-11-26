@@ -1,3 +1,4 @@
+//
 {
   "contractName": "ERC20TD",
   "abi": [
@@ -4199,8 +4200,14 @@
     "version": "0.6.2+commit.bacdbe57.Emscripten.clang"
   },
   "networks": {},
+<<<<<<< HEAD
   "schemaVersion": "3.4.3",
   "updatedAt": "2021-11-25T11:31:42.160Z",
+=======
+  "schemaVersion": "3.3.4",
+  "updatedAt": "2021-11-19T16:02:38.077Z",
+  "networkType": "ethereum",
+>>>>>>> 697a1348ecf12096b30f5d5b809aadbf5842dd1f
   "devdoc": {
     "methods": {
       "allowance(address,address)": {
